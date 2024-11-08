@@ -17,7 +17,7 @@ To be published.
     ownCreation: true
    ],
    softwares: [
-    imagesEdit: 'GIMP', 'Inkscape', 'PixageFXStudio',
+    imagesEdit: 'GIMP', 'Inkscape', 'PixageFXStudio', 'appScenario',
     codeScripting: 'VS Code', 'Visual Studio',
     spriteSheet: 'SpriterPro', 'FatiadorAlinhador',
     modeling: 'Blender', 'Meshy',
@@ -34,7 +34,7 @@ Most of art was extracted from 3D asset following [this](https://forums.rpgmaker
 - move model and print (according to demand)
 - edit image in your favorite software (I use GIMP)
 
-#### Meshy's models:
+### Meshy's models:
 
 1. Bosses
 
@@ -45,7 +45,7 @@ Most of art was extracted from 3D asset following [this](https://forums.rpgmaker
 - [Titan Snake](https://www.meshy.ai/3d-models/Venomous-Majesty-Serpent-warm-tone-01929a01-9d7d-78e7-b40a-c52e55019361?showcaseId=01929a06-31a5-78e7-b3bf-6b9247e08fc8)
 
 2. Others
-- [Black Ninja](https://www.meshy.ai/3d-models/hard-surface-ninja-warrior-dark-gray-hair-red-scarf-covering-the-neck-black-armor-gold-details-on-the-armor-graygreen-sweatshirt-and-pants-underneath-the-armor-yellow-belt-metal-gloves-arm-protectors-armor-on-the-legs-reinforced-boots-apose-game-asset-rgp-character-4k-unreal-zbrush-0191b8e4-431a-731d-95d5-9f91e9e35cf6?showcaseId=0191b8f2-ad1d-731d-b771-ffe3ac7c22e8)
+- [Hero](https://www.meshy.ai/3d-models/Ninja-warrior-weaponless-spiky-gray-hair-red-scarf-covering-the-neck-with-the-excess-falling-to-the-back-black-armor-gold-details-on-the-armor-graygreen-sweatshirt-and-pants-underneath-the-armor-yellow-belt-metal-gloves-arm-protectors-armor-on-the-legs-reinforced-boots-human-size-apose-or-tpose-game-asset-rgp-character-4k-unreal-zbrush-0192ddc3-8ee0-7d9a-bc8f-842197908cee?showcaseId=0192e90b-e72c-7174-9c0b-a625cf5a3189)
 - [Ogre Commoner](https://www.meshy.ai/3d-models/Ogre-commoner-realistic-019256ed-fc6a-7134-88a3-f1ab306c5400?showcaseId=019256f2-9393-7136-b492-08dc89baab80)
 - [Blacksmith](https://www.meshy.ai/3d-models/realistic-typicalblacksmith-of-a-medieval-city-with-outstretched-arms-a-hammae-in-one-of-the-hands-tpose-unreal-engine-aaa-game-asset-zbrush-01926185-93cd-72b4-9139-49767532faa0?showcaseId=01926188-d5b7-72b5-ad3e-6a65a1af735b)
 - [Sage Rabbit](https://www.meshy.ai/3d-models/Anthropomorphic-creature-resembling-a-rabbit-Wears-a-wizards-robe-Erect-posture-has-human-hands-and-rabbit-feet-It-has-big-rabbit-ears-Body-proportions-of-a-human-High-quality-high-end-01926128-ea02-729f-bc74-1f75f30543fa?showcaseId=01926139-01a0-72a1-b10e-1eac0821cd09)
@@ -54,8 +54,16 @@ Most of art was extracted from 3D asset following [this](https://forums.rpgmaker
 
 Assets has been edited within texture and had animations exported to 2D frames.
 
-## Use this repository
-Please, fell free to fork this repository and create your own game.<br>
+### Audio
+
+- [Youtube Library](https://www.youtube.com/audiolibrary)
+- [Casual Game Sounds](https://assetstore.unity.com/packages/audio/sound-fx/free-casual-game-sfx-pack-54116#description)
+- [Music Loop Mini Set](https://assetstore.unity.com/packages/audio/music/music-loops-mini-set-70967)
+- [Epic Game Hits SFX](https://assetstore.unity.com/packages/audio/sound-fx/epic-game-hits-sfx-36617)
+- [Blacksmith hammer](https://www.youtube.com/watch?v=0RGUU0d9Kyg)
+
+## Usage of this repository
+Please, fell free to fork this repository and create your own game, and do whatever you want - even making money!<br>
 Just give credits to ```@henriquegibi```, many thanks for this!
 
 ## Let's Get in Touch
