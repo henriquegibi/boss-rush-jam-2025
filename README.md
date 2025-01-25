@@ -1,6 +1,9 @@
 # Boss Rush Jam 2025
 
-This repository was created for the game The Big Fives, which aims to meet the requirements of the [Boss Jam 2025](https://itch.io/jam/boss-rush-jam-2025) game jam.
+This repository was created for the game The Big Fives, which aims to meet the requirements of the [Boss Jam 2025](https://itch.io/jam/boss-rush-jam-2025) game jam.<br>
+
+<span style="color:red; font-weight:bold"> IMPORTANT!</span><br>
+Due personal reasons I could not subimit a projet to this Game Jam, but I hope I  cansubimit this project (to other Game Jam or next year), which is still on my mind.
 
 
 ## Theme
